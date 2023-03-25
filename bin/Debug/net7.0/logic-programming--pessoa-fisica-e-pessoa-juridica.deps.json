@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "logic-programming--pessoa-fisica-e-pessoa-juridica/1.0.0": {
+        "runtime": {
+          "logic-programming--pessoa-fisica-e-pessoa-juridica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "logic-programming--pessoa-fisica-e-pessoa-juridica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

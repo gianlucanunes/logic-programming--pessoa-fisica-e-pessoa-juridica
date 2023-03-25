@@ -1,0 +1,15 @@
+E:\Portfolio\logic-programming--pessoa-fisica-e-pessoa-juridica\bin\Debug\net7.0\logic-programming--pessoa-fisica-e-pessoa-juridica.exe
+E:\Portfolio\logic-programming--pessoa-fisica-e-pessoa-juridica\bin\Debug\net7.0\logic-programming--pessoa-fisica-e-pessoa-juridica.deps.json
+E:\Portfolio\logic-programming--pessoa-fisica-e-pessoa-juridica\bin\Debug\net7.0\logic-programming--pessoa-fisica-e-pessoa-juridica.runtimeconfig.json
+E:\Portfolio\logic-programming--pessoa-fisica-e-pessoa-juridica\bin\Debug\net7.0\logic-programming--pessoa-fisica-e-pessoa-juridica.dll
+E:\Portfolio\logic-programming--pessoa-fisica-e-pessoa-juridica\bin\Debug\net7.0\logic-programming--pessoa-fisica-e-pessoa-juridica.pdb
+E:\Portfolio\logic-programming--pessoa-fisica-e-pessoa-juridica\obj\Debug\net7.0\logic-programming--pessoa-fisica-e-pessoa-juridica.csproj.AssemblyReference.cache
+E:\Portfolio\logic-programming--pessoa-fisica-e-pessoa-juridica\obj\Debug\net7.0\logic-programming--pessoa-fisica-e-pessoa-juridica.GeneratedMSBuildEditorConfig.editorconfig
+E:\Portfolio\logic-programming--pessoa-fisica-e-pessoa-juridica\obj\Debug\net7.0\logic-programming--pessoa-fisica-e-pessoa-juridica.AssemblyInfoInputs.cache
+E:\Portfolio\logic-programming--pessoa-fisica-e-pessoa-juridica\obj\Debug\net7.0\logic-programming--pessoa-fisica-e-pessoa-juridica.AssemblyInfo.cs
+E:\Portfolio\logic-programming--pessoa-fisica-e-pessoa-juridica\obj\Debug\net7.0\logic-programming--pessoa-fisica-e-pessoa-juridica.csproj.CoreCompileInputs.cache
+E:\Portfolio\logic-programming--pessoa-fisica-e-pessoa-juridica\obj\Debug\net7.0\logic-programming--pessoa-fisica-e-pessoa-juridica.dll
+E:\Portfolio\logic-programming--pessoa-fisica-e-pessoa-juridica\obj\Debug\net7.0\refint\logic-programming--pessoa-fisica-e-pessoa-juridica.dll
+E:\Portfolio\logic-programming--pessoa-fisica-e-pessoa-juridica\obj\Debug\net7.0\logic-programming--pessoa-fisica-e-pessoa-juridica.pdb
+E:\Portfolio\logic-programming--pessoa-fisica-e-pessoa-juridica\obj\Debug\net7.0\logic-programming--pessoa-fisica-e-pessoa-juridica.genruntimeconfig.cache
+E:\Portfolio\logic-programming--pessoa-fisica-e-pessoa-juridica\obj\Debug\net7.0\ref\logic-programming--pessoa-fisica-e-pessoa-juridica.dll
